@@ -14,16 +14,19 @@ public class Estudiantes {
     private Byte edad;
     private String carrera;
 
+    //Constructor vacio
     public Estudiantes() {
         
     }
 
+    //Constructor que instanciara las variables
     public Estudiantes(String nombre, Byte edad, String carrera) {
         this.nombre = nombre;
         this.edad = edad;
         this.carrera = carrera;
     }
 
+    //Constructor para indicar el valor que tendra el nombre
     public Estudiantes(String nombre) {
         this.nombre = nombre;
     }
@@ -62,3 +65,4 @@ public class Estudiantes {
     
     
 }
+

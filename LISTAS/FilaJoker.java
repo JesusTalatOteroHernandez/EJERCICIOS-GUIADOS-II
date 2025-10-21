@@ -12,11 +12,13 @@ public class FilaJoker<T> {
     //Inicializamos la variable cabeza con un tipo Nodo generico
     private Nodo<T> cabeza;
 
+    //Inicializamos la cabeza de la lista como nullo
     public FilaJoker() {
         this.cabeza = null;
     }
     
     
+    //Realiza el recorrido de la fial
     public void recorrerFila(){
         Nodo<T> temp = cabeza;
         while(temp.getIzquierda()!= null){
@@ -40,3 +42,4 @@ public class FilaJoker<T> {
         
     }
 }
+

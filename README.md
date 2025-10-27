@@ -7,7 +7,7 @@
 | U2ACT3 Práctica Manual y Algorítmica Lista |[Práctica Manual y Algorítmica Lista](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/ba57cb5835597e37d79f142f1c7009213cf5123f/Ejercicios%20Guiados/Listas%20nearpod.pdf)|
 | U2ACT4 Especificación de Pila con VisuAlgo |[Especificación de Pila con VisuAlgo](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/ec2a3b2f1c48175f73f35e9da60f6ac019dd180c/Ejercicios%20Guiados/EjercicioGuiadoSTACK.pdf)|
 | U2ACT5 Especificación de la Pila |[Especificación de la Pila](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/tree/74314003bc6d738f247cd214cd4bafe1816cecf7/Ejercicios%20Guiados/Stack)|
-|Near Pods Pilas|[NearPods Pilas]()|
+|Near Pods Pilas|[NearPods Pilas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/022921b362d9f6d2935c031d65a683cb2346238d/Ejercicios%20Guiados/NearPods%20Pilas.pdf)|
 
 | Codigos        | Evidencia  |
 |----------------|------------|

@@ -8,7 +8,7 @@
 | U2ACT4 Especificación de Pila con VisuAlgo |[Especificación de Pila con VisuAlgo](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/ec2a3b2f1c48175f73f35e9da60f6ac019dd180c/Ejercicios%20Guiados/EjercicioGuiadoSTACK.pdf)|
 | U2ACT5 Especificación de la Pila |[Especificación de la Pila](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/tree/74314003bc6d738f247cd214cd4bafe1816cecf7/Ejercicios%20Guiados/Stack)|
 |Near Pods Pilas|[NearPods Pilas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/022921b362d9f6d2935c031d65a683cb2346238d/Ejercicios%20Guiados/NearPods%20Pilas.pdf)|
-|NearPods Colas|[NearPods Colas]()|
+|NearPods Colas|[NearPods Colas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/e96a007343e5dc6d122c3b2b96b1d8535f488e8f/Ejercicios%20Guiados/NearPods%20Colas.pdf)|
 
 | Codigos        | Evidencia  |
 |----------------|------------|

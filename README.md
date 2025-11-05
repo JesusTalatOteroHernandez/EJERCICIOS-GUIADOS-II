@@ -10,6 +10,7 @@
 |Near Pods Pilas|[NearPods Pilas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/022921b362d9f6d2935c031d65a683cb2346238d/Ejercicios%20Guiados/NearPods%20Pilas.pdf)|
 |NearPods Colas|[NearPods Colas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/e96a007343e5dc6d122c3b2b96b1d8535f488e8f/Ejercicios%20Guiados/NearPods%20Colas.pdf)|
 |U2ACT1 Ejercicio de Ordenamiento por Intercambio con Tarjetas|[U2ACT1 Ejercicio de Ordenamiento por Intercambio con Tarjetas](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-II/blob/dbbde4739562fa5f9481c7a1a676705ef3b2544b/Ejercicios%20Guiados/U2ACT1%20Ejercicio%20de%20Ordenamiento%20por%20Intercambio%20con%20Tarjetas.pdf)|
+|  U2ACT2 Ejercicio de Ordenamiento por Intercambio con VisuAlgo | [ U2ACT2 Ejercicio de Ordenamiento por Intercambio con VisuAlgo]() |
 
 | Codigos        | Evidencia  |
 |----------------|------------|
